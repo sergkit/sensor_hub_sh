@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report File:        D:\Мои документы\Сережино\pcb\hubWithClock\SENSORhUBwithClock (PCB - Pour Copper Report).txt
+Report Written:     Sunday, April 24, 2016
+Design Path:        D:\Мои документы\Сережино\pcb\hubWithClock\SENSORhUBwithClock.pcb
+Design Title:       
+Created:            23.04.2016 20:24:31
+Last Saved:         24.04.2016 16:14:47
+Editing Time:       508 min
+Units:              mm (precision 2)
+
+
+End Of Report.

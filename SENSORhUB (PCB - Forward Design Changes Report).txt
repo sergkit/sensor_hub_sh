@@ -1,0 +1,16 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File:        D:\Мои документы\Сережино\pcb\SENSORhUB (PCB - Forward Design Changes Report).txt
+Report Written:     Monday, March 07, 2016
+Design Path:        D:\Мои документы\Сережино\pcb\SENSORhUB.pcb
+Design Title:       
+Created:            07.03.2016 14:30:47
+Last Saved:         07.03.2016 16:55:11
+Editing Time:       145 min
+Units:              mm (precision 2)
+
+Disconnected pin "MOD4-16" from net "0V".
+
+
+End Of Report.
