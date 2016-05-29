@@ -1,0 +1,16 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File:        D:\Мои документы\Сережино\pcb\hubWithClock\SENSORhUBwithClock (PCB - Forward Design Changes Report).txt
+Report Written:     Sunday, April 24, 2016
+Design Path:        D:\Мои документы\Сережино\pcb\hubWithClock\SENSORhUBwithClock.pcb
+Design Title:       
+Created:            23.04.2016 20:24:31
+Last Saved:         24.04.2016 14:07:11
+Editing Time:       380 min
+Units:              mm (precision 2)
+
+Connected pin "MOD5-1" to net "VIN".
+
+
+End Of Report.

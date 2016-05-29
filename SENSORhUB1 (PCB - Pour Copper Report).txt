@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report File:        D:\Мои документы\Сережино\pcb\SENSORhUB1 (PCB - Pour Copper Report).txt
+Report Written:     Monday, March 07, 2016
+Design Path:        D:\Мои документы\Сережино\pcb\SENSORhUB1.pcb
+Design Title:       
+Created:            07.03.2016 14:30:47
+Last Saved:         07.03.2016 16:48:20
+Editing Time:       139 min
+Units:              mm (precision 2)
+
+
+End Of Report.

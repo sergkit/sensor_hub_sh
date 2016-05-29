@@ -1,0 +1,17 @@
+Back Annotation Renames Report
+------------------------------
+
+Report File:        D:\Мои документы\Сережино\pcb\hubWithClock\SENSORhUBwithClock (PCB - Back Annotation Renames Report).txt
+Report Written:     Sunday, April 24, 2016
+Design Path:        D:\Мои документы\Сережино\pcb\hubWithClock\SENSORhUBwithClock.pcb
+Design Title:       
+Created:            23.04.2016 20:24:31
+Last Saved:         24.04.2016 0:00:49
+Editing Time:       223 min
+Units:              mm (precision 2)
+
+Outstanding PCB renames awaiting back annotation to the Schematics design.
+
+Rename Net from "GND" to "V".
+
+End Of Report.

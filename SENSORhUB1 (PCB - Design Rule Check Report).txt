@@ -1,0 +1,64 @@
+Design Rule Check Report
+------------------------
+
+Report File:        D:\Мои документы\Сережино\pcb\SENSORhUB1 (PCB - Design Rule Check Report).txt
+Report Written:     Monday, March 07, 2016
+Design Path:        D:\Мои документы\Сережино\pcb\SENSORhUB1.pcb
+Design Title:       
+Created:            07.03.2016 14:30:47
+Last Saved:         07.03.2016 15:50:37
+Editing Time:       80 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        No
+Pads and Vias No
+Shapes        No
+Text          No
+Board         No
+Drills        No
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.

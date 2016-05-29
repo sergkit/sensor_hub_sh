@@ -1,0 +1,110 @@
+Design Rule Check Report
+------------------------
+
+Report File:        D:\Мои документы\Сережино\pcb\SENSORhUB2 (PCB - Design Rule Check Report).txt
+Report Written:     Tuesday, March 08, 2016
+Design Path:        D:\Мои документы\Сережино\pcb\SENSORhUB2.pcb
+Design Title:       
+Created:            07.03.2016 14:30:47
+Last Saved:         08.03.2016 11:13:50
+Editing Time:       457 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+Track to Drill Hole error (T-D) at (508.00 516.38) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (518.16 516.38) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (508.00 486.38) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (523.24 491.46) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (497.31 486.10) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (520.00 532.38) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Pad to Silkscreen error (P-S) at (501.18 512.70) on layer "Top Silkscreen".
+    Silkscreen text 'MOD4' overlaps pad.
+Pad to Silkscreen error (P-S) at (501.18 516.07) on layer "Top Silkscreen".
+    Silkscreen text 'MOD4' overlaps pad.
+Pad to Silkscreen error (P-S) at (500.99 517.91) on layer "Top Silkscreen".
+    Silkscreen text 'MOD4' overlaps pad.
+Pad to Silkscreen error (P-S) at (499.53 517.08) on layer "Top Silkscreen".
+    Silkscreen text 'MOD4' overlaps pad.
+Pad to Silkscreen error (P-S) at (499.53 514.54) on layer "Top Silkscreen".
+    Silkscreen text 'MOD4' overlaps pad.
+Pad to Silkscreen error (P-S) at (499.97 512.70) on layer "Top Silkscreen".
+    Silkscreen text 'MOD4' overlaps pad.
+Track to Drill Hole error (T-D) at (499.21 510.23) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Pad to Silkscreen error (P-S) at (502.51 500.83) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Via to Silkscreen error (V-S) at (503.53 504.76) on layer "Top Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (504.29 504.61) on layer "Top Silkscreen".
+    Silkscreen shape overlaps via.
+Track to Drill Hole error (T-D) at (524.00 532.00) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Pad to Silkscreen error (P-S) at (514.57 498.70) on layer "Top Silkscreen".
+    Silkscreen text 'JP1' overlaps pad.
+Pad to Silkscreen error (P-S) at (516.22 500.22) on layer "Top Silkscreen".
+    Silkscreen text 'JP1' overlaps pad.
+Component to Board error (Cm-B) at (470.00 488.00) on layer "[Top]".
+    MOD4.
+Component to Board error (Cm-B) at (470.00 488.00) on layer "[Top]".
+    MOD1.
+Component to Component Error (Cm-Cm) between (513.11 469.97) and (507.24 469.97) on Layer "[Bottom]".
+    R3 - MOD2, Gap is 0.00.
+Component to Component Error (Cm-Cm) between (513.11 457.68) and (513.11 461.97) on Layer "[Bottom]".
+    MOD2 - R2, Gap is 0.00.
+
+Number of errors found : 23
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

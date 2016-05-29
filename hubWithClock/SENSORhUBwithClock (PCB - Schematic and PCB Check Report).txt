@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File:        D:\Мои документы\Сережино\pcb\hubWithClock\SENSORhUBwithClock (PCB - Schematic and PCB Check Report).txt
+Report Written:     Sunday, April 24, 2016
+Design Path:        D:\Мои документы\Сережино\pcb\hubWithClock\SENSORhUBwithClock.pcb
+Design Title:       
+Created:            23.04.2016 20:24:31
+Last Saved:         24.04.2016 14:07:11
+Editing Time:       380 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic "D:\Мои документы\Сережино\pcb\hubWithClock\SENSORhUBwithClock.sch" with PCB "D:\Мои документы\Сережино\pcb\hubWithClock\SENSORhUBwithClock.pcb"
+================================================================================================================================================================================
+
+
+End Of Report.

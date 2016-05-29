@@ -1,0 +1,23 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File:        D:\Мои документы\Сережино\pcb\SENSORhUB (PCB - Schematic and PCB Check Report).txt
+Report Written:     Monday, March 07, 2016
+Design Path:        D:\Мои документы\Сережино\pcb\SENSORhUB.pcb
+Design Title:       
+Created:            07.03.2016 14:30:47
+Last Saved:         07.03.2016 16:55:11
+Editing Time:       144 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic "D:\Мои документы\Сережино\pcb\SENSORhUB.sch" with PCB "D:\Мои документы\Сережино\pcb\SENSORhUB.pcb"
+====================================================================================================================================
+
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+Disconnect Pin MOD4-16 from Net "0V"
+
+
+End Of Report.
